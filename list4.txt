@@ -25,3 +25,4 @@ https://raw.githubusercontent.com/ProxyScraper/ProxyScraper/main/socks4.txt
 https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks4.txt
 https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks4.txt
 https://raw.githubusercontent.com/Tsprnay/Proxy-lists/master/proxies/socks4.txt
+https://raw.githubusercontent.com/elliottophellia/yakumo/master/results/socks4/global/socks4_checked.txt
