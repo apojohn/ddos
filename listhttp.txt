@@ -61,3 +61,4 @@ https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/http.txt
 https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt
 https://raw.githubusercontent.com/Tsprnay/Proxy-lists/master/proxies/http.txt
 https://raw.githubusercontent.com/Tsprnay/Proxy-lists/master/proxies/https.txt
+https://raw.githubusercontent.com/elliottophellia/yakumo/master/results/http/global/phttp_checked.txt
