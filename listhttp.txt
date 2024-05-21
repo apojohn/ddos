@@ -62,3 +62,8 @@ https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt
 https://raw.githubusercontent.com/Tsprnay/Proxy-lists/master/proxies/http.txt
 https://raw.githubusercontent.com/Tsprnay/Proxy-lists/master/proxies/https.txt
 https://raw.githubusercontent.com/elliottophellia/yakumo/master/results/http/global/phttp_checked.txt
+https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/https.txt
+https://github.com/SevenworksDev/proxy-list/raw/main/proxies/unknown.txt
+https://raw.githubusercontent.com/monosans/proxy-list/main/proxies_anonymous/http.txt
+https://github.com/ALIILAPRO/Proxy/raw/main/http.txt
