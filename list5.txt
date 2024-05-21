@@ -30,3 +30,4 @@ https://raw.githubusercontent.com/ProxyScraper/ProxyScraper/main/socks5.txt
 https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks5.txt
 https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks5.txt
 https://raw.githubusercontent.com/Tsprnay/Proxy-lists/master/proxies/socks5.txt
+https://raw.githubusercontent.com/elliottophellia/yakumo/master/results/socks5/global/socks5_checked.txt
